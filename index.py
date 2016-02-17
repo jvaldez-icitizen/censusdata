@@ -1,2 +1,0 @@
-print 'yoooo2oooo'
-
